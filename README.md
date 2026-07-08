@@ -3,3 +3,4 @@
 <img width="960" height="540" alt="Screenshot 2026-06-29 233632" src="https://github.com/user-attachments/assets/ea9f6610-8473-4bfc-a55d-f465f7465209" />
 <img width="960" height="540" alt="Screenshot 2026-06-29 233748" src="https://github.com/user-attachments/assets/bec3410c-8652-4909-b468-0282c7a6f7f0" />
 
+[Dev.to Assignment Article ](https://dev.to/ricky_littons/why-semantic-html-and-accessibility-matter-lessons-from-my-portfolio-audit-25l0)
